@@ -3,7 +3,7 @@ This repository showcases my work during a Data Science internship at CipherByte
 
 Key Highlights:
 
-= Data wrangling and preprocessing
+- Data wrangling and preprocessing
 = Feature engineering and model optimization
 - Deployment of machine learning models
 - Insights into big data and cloud technologies
