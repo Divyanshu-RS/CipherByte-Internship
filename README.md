@@ -7,4 +7,5 @@ Key Highlights:
 = Feature engineering and model optimization
 - Deployment of machine learning models
 - Insights into big data and cloud technologies
+  <b>
 This repository serves as a reflection of my growth and learning during the internship, highlighting key contributions and innovative solutions that drive real-world impact.
