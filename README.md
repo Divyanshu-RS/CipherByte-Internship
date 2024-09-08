@@ -1,7 +1,7 @@
 # Internship Experience at CipherByte Technologies
 This repository showcases my work during a Data Science internship at CipherByte Technologies. It includes projects focused on real-world applications of data analysis, machine learning, and artificial intelligence. Throughout the internship, I gained hands-on experience with various data processing techniques, exploratory data analysis (EDA), predictive modeling, and statistical methods. The projects aim to solve business problems and derive insights from large datasets, with a focus on improving decision-making and optimizing performance.
 
-Key Highlights:
+## Key Highlights:
 
 - Data wrangling and preprocessing
 = Feature engineering and model optimization
